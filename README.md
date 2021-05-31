@@ -1,5 +1,5 @@
 <div align='center'>
-    <img src="gif-ucarlos1001.gif">
+    <img style='border-radius: 100%' src="gif-ucarlos1001.gif">
 </div>
 <div align='center'>
     <a target='_blank' href="https://twitter.com/ucarlos1001">
