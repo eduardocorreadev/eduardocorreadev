@@ -1,5 +1,5 @@
 <div align='center'>
-    <img style='width: 400px;' src="https://avatars.githubusercontent.com/u/72578529?v=4">
+    <img style='width: 100px;' src="https://avatars.githubusercontent.com/u/72578529?v=4">
 </div>
 <div align='center'>
     <a target='_blank' href="https://twitter.com/ucarlos1001">
