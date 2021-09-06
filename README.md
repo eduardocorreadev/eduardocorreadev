@@ -45,3 +45,14 @@ My name is Carlos Eduardo and I live in a small town in the interior of São Pau
 
 ## Important Phrase
 **A simple game can change lives**
+
+## Identificadores Particulares v2.0 - GitHub (pt-BR)
+
+<li>[PP] = Projeto Pendente;</li>
+<li>[PD] = Projeto em Desenvolvimento;</li>
+<li>[PMP] = Projeto com Modificações Pendentes;</li>
+<li>[PC] = Projeto Cancelado;</li>
+<li>[PA] = Projeto Ativo e recebendo Atualizações;</li>
+<li>[PPT] = Projeto Pausado Temporariamente;</li>
+<li>[PDD] = Projeto Descontinuado;</li>
+<li>[PF] = Projeto Finalizado;</li>
