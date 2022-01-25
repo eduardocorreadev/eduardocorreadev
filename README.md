@@ -26,7 +26,7 @@ My name is Carlos Eduardo and I live in a small town in the interior of São Pau
 ## Detailed information
 
 * **Name**: Carlos Eduardo
-* **Age**: 19
+* **Age**: 20
 * **Living in**: Itobi, São Paulo, Brazil
 
 ## Curiosities about me
