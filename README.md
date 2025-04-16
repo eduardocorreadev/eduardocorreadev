@@ -1,31 +1,22 @@
+# 👋 Ei! Sou Eduardo Corrêa
 
-<h1 style='color: #03adfc; font-weight: bold;'>⭐ Hello Dev ⭐</h1>
+Tenho 23 anos e moro em uma pequena cidade no interior de São Paulo. Atualmente estou estudando **JavaScript** e recomeçando os passos no mundo da programação. Depois de uma pausa, decidi voltar a aprender e estou mais motivado do que nunca!
 
-I have no idea what you're doing here or how you got here, but since you're here, I'll try to show you a little bit about myself.
+### O que estou fazendo agora:
 
-## Public information
+- Estudando **JavaScript** com foco em desenvolvimento web.
+- Criando pequenos projetos para praticar e fortalecer o aprendizado.
+- Compartilhando meu progresso e aprendizados por aqui no GitHub.
 
-My name is Carlos Eduardo and I live in a small town in the interior of São Paulo, Brazil.
+### Objetivos:
 
-## Detailed information
+- Aprender fundamentos sólidos de programação.
+- Evoluir para frameworks como **React**.
+- Colaborar com projetos open source no futuro.
+- Conseguir minha primeira oportunidade na área de tecnologia 🚀
 
-* **Name**: Carlos Eduardo
-* **Age**: 20
-* **Living in**: Itobi, São Paulo, Brazil
+### Como me encontrar:
 
-## Curiosities about me
+Se quiser bater um papo, trocar ideias ou acompanhar meu progresso, fique à vontade para me seguir por aqui no GitHub!
 
-* I started programming at the age of 15 because of Minecraft Servers. Using the Java Language for Plugins.
-
-* When developing for Minecraft servers, I didn't have much sense of what I was doing, so it was changing lines and taking the "trial / error" approach just to see if something changed in the game.
-
-* Today my main focus is to work with web development. 
-
-* I started to focus on web development in 2018, also because of the Minecraft Game. On a server we had the great idea of ​​making a website for the server. And I say great because that idea changed my life. I offered to do the site because I thought, "It shouldn't be that hard", but I had no experience. I started using platforms like Mix to create the site, but I wanted to see better how it worked and I started to like it so much that until today I haven't stopped.
-
-* The first course I attended was from **Curso em Vídeo**.
-
-* I love DC's The Flash series, that's why Avatar xD
-
-## Important Phrase
-**A simple game can change lives**
+> "A jornada pode ser longa, mas cada linha de código é um passo mais perto do objetivo."
